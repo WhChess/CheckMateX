@@ -1,2 +1,2 @@
 # ChessMateX
-Opening Book
+Opening Book for XXproy Chess Engine
