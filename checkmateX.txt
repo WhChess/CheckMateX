@@ -1,0 +1,8 @@
+Hello!
+This book is made for chess engine.
+
+the developers of the apps that i used for creating my openning book
+
+Fabien Letouzy (polyglot.exe)
+Michel Van den Bergh
+Massimiliano Goi
