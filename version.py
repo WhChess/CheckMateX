@@ -1,3 +1,3 @@
 # This is a version of the chess polyglot openning book
 
- print('v1')
+print('v1')
