@@ -1,3 +1,0 @@
-You can download this openning book at this link:
-
-https://github.com/ZeroThink-01/ChessMateX/releases/tag/v1
