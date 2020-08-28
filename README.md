@@ -1,4 +1,4 @@
 # ChessMateX
 Opening Book for XXproy Chess Engine
-# Elo
+# Rating
 about 3400-3500
